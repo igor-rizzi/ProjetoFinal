@@ -10,8 +10,6 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     AppComponent
   ],
   imports: [
-
-
     BrowserModule,
     AppRoutingModule,
     NavegacaoModule,
